@@ -3,14 +3,9 @@
 
 - ### 😄 Pronouns: she/her
 - ### ⚡ Fun fact: I play four instruments!
+- ### Priorities 
+  1. Learn to code
+  2. Make my own website
+  3. Design said website
+  4. Maybe make a game 
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ## 😄 Pronouns: she/her
-##⚡ Fun fact: I play four instruments!
--->
